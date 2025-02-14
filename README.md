@@ -100,6 +100,7 @@ tsconfig.json
 tsconfig.node.json
 vite.config.ts
 
+
 ![foto cardapio 1](https://github.com/user-attachments/assets/243b8019-162c-42c4-bb16-443edc815bc0)
 ![foto cardapio 2](https://github.com/user-attachments/assets/0730bc4e-3178-47cf-8559-d0ee72af8d78)
 ![foto cardapio 3](https://github.com/user-attachments/assets/57997f1a-42ee-4eff-a9e0-81029eeb4571)
