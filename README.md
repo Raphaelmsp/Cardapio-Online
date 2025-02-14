@@ -64,7 +64,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para ma
 
 ## Estrutura do Projeto
 
-```plaintext
+.plaintext
 .bolt/
   config.json
   prompt
@@ -99,3 +99,10 @@ tsconfig.app.json
 tsconfig.json
 tsconfig.node.json
 vite.config.ts
+
+![foto cardapio 1](https://github.com/user-attachments/assets/243b8019-162c-42c4-bb16-443edc815bc0)
+![foto cardapio 2](https://github.com/user-attachments/assets/0730bc4e-3178-47cf-8559-d0ee72af8d78)
+![foto cardapio 3](https://github.com/user-attachments/assets/57997f1a-42ee-4eff-a9e0-81029eeb4571)
+![foto cardapio 4](https://github.com/user-attachments/assets/a4f2270f-6720-4403-b4ec-be7b10ec9240)
+![foto cardapio 5](https://github.com/user-attachments/assets/9848ebc5-0c6c-4595-89fd-75da036597be)
+![foto cardapio 6](https://github.com/user-attachments/assets/db5b9fc7-170d-4c51-89fd-23be9f06c266)
