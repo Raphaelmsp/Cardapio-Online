@@ -32,6 +32,35 @@ Este é um projeto de Cardápio Digital para o Restaurante Benito Gomes, desenvo
   - [ESLint](https://eslint.org/)
   - [PostCSS](https://postcss.org/)
   - [Lucide React](https://lucide.dev/)
+ 
+Como Executar o Projeto
+
+Clone o repositório:
+git clone 
+https://github.com/Raphaelmsp/Cardapio-Online
+
+cd cardapio-digital
+
+Instale as dependências:
+
+npm install
+
+Configure o Supabase:
+
+Crie um projeto no Supabase.
+Crie as tabelas necessárias para pratos principais, opções adicionais e pedidos.
+Configure as variáveis de ambiente no arquivo .env com as chaves do Supabase.
+Execute o projeto em modo de desenvolvimento:
+npm run dev
+Construa o projeto para produção:
+npm run build
+Visualize a versão de produção:
+npm run preview
+Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
+
+Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
 ## Estrutura do Projeto
 
@@ -70,5 +99,3 @@ tsconfig.app.json
 tsconfig.json
 tsconfig.node.json
 vite.config.ts
-
-
